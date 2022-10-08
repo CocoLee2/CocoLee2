@@ -1,3 +1,6 @@
+### Hello people!
+
+
 - 👋 Hi, I’m @CocoLee2, you can call me Coco!
 - 👀 A CSE major student @University of Washington.
 - 🌱 I’m currently learning how to use GitHub.
