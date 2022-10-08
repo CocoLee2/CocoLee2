@@ -1,4 +1,4 @@
-### Hello people!
+### Hello people! :sparkles:
 
 
 - 👋 Hi, I’m @CocoLee2, you can call me Coco!
