@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CocoLee2, you can call me Coco!
-- 👀 I'm from China, and a CSE student at University of Washington.
+- 👀 A CSE major student @University of Washington.
 - 🌱 I’m currently learning how to use GitHub.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me via email: keliyk@uw.edu
